@@ -1,0 +1,44 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+	"block_caret": true,
+"caret_style": "solid",
+"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+"file_exclude_patterns":
+[
+	"*.pyc",
+	"*.pyo",
+	"*.exe",
+	"*.dll",
+	"*.obj",
+	"*.o",
+	"*.a",
+	"*.lib",
+	"*.so",
+	"*.dylib",
+	"*.ncb",
+	"*.sdf",
+	"*.suo",
+	"*.pdb",
+	"*.idb",
+	".DS_Store",
+	"*.class",
+	"*.psd",
+	"*.db",
+	"*.sublime-workspace",
+	"*.asm"
+	],
+"show_git_status": false,
+"tab_size": 8,
+"theme": "Default.sublime-theme",
+"font_face": "Hack",
+"font_size": 10,
+"save_on_focus_lost": true,
+"word_wrap":	true,
+"update_check": false,
+	"index_files": true,
+}
