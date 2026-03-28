@@ -1,0 +1,12 @@
+CTL 2026
+
+Streams
+
+28.03.2026
+
+ab 09:18 Uhr	Was ist eigentlich ein FPGA? (Dr. N. Rother, eher nur privatbezug sichtbar, aber wirklich privat?, also ohne Amtskennung?)
+
+10:00 Uhr	Freie Bildung - Diagramme textbasiert (Rico Meiner, Jade Hochschule, Lehrbefähigung?)
+11:00 Uhr	Zahlen, Daten, Fakten zur Nutzung von OSS in Deutschland (Holger Koch, DB; Lehrbefähigung?)
+ab 11:54 Uhr	OpenCloud: Learnings für eine einfache, stabile Filecloud [Tobias Baader (Produktmanager, OpenCloud GmbH)/Klaas Freitag (CTO, OpenCloud GmbH) / Homepage; Lehrbefähigung?)
+
