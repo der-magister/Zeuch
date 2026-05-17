@@ -9,4 +9,9 @@ ab 09:18 Uhr	Was ist eigentlich ein FPGA? (Dr. N. Rother, eher nur privatbezug s
 10:00 Uhr	Freie Bildung - Diagramme textbasiert (Rico Meiner, Jade Hochschule, Lehrbefähigung?)
 11:00 Uhr	Zahlen, Daten, Fakten zur Nutzung von OSS in Deutschland (Holger Koch, DB; Lehrbefähigung?)
 ab 11:54 Uhr	OpenCloud: Learnings für eine einfache, stabile Filecloud [Tobias Baader (Produktmanager, OpenCloud GmbH)/Klaas Freitag (CTO, OpenCloud GmbH) / Homepage; Lehrbefähigung?)
+ab 13:03 Uhr	Bequem oder souverän? openDesk für Hochschulen (Dr. Tobias Weiß, Amt erzählt)
+ab 14:02 Uhr	Richtig schlecht über Technik schreiben
 
+29.03.2026
+
+12:07 Uhr	E-Mail, Kalender, Kontakte und Dateien mit Stalwart (Andreas Grupp)
